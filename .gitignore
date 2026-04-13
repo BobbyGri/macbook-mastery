@@ -3,6 +3,12 @@
 .AppleDouble
 .LSOverride
 
+# Backups
+*.bkp
+*.bak
+*.backup
+*~
+
 # Icon must end with two \r
 Icon
 
@@ -23,3 +29,19 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Temp files
+*.tmp
+*.temp
+*.autosave
+*.swp
+
+# Logs
+*.log
+
+# Draw.io / diagrams.net
+*.drawio.bkp
+*.drawio~
+
+# VS Code (optional)
+.vscode/
