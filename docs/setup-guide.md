@@ -2,72 +2,208 @@
 
 ## 🎯 Purpose
 
-This guide helps you configure a clean, efficient, and reproducible macOS environment.
+This guide provides a **practical, reproducible, and optimized macOS setup** for developers and power users.
 
 It focuses on:
 
-* System configuration
-* Development setup
-* Productivity optimization
+* Reducing friction
+* Increasing speed of interaction
+* Standardizing your environment
+* Enabling automation
+
+This is not a checklist — it is a **system design for your daily work environment**.
 
 ---
 
-## 🧱 1. macOS Initial Setup
+# 🧱 1. macOS System Configuration
 
-### Basic Configuration
+## 🖱️ Trackpad Configuration
 
-* Enable **Tap to click**
-* Set **Trackpad speed**
-* Configure **Keyboard repeat rate**
-* Enable **Dark mode** (optional)
+### Enable Tap to Click
 
----
+**Why:**
+Reduces physical effort and increases speed when navigating.
 
-### Finder Configuration
+**How:**
 
-* Show path bar
-* Show status bar
-* Set default folder (e.g. Home or Projects)
-* Enable file extensions
+1. Open **System Settings**
+2. Go to **Trackpad**
+3. Enable:
+   → `Tap to click`
 
 ---
 
-### Spotlight
+### Adjust Tracking Speed
 
-* Customize indexed categories
-* Use it as a primary navigation tool
+**Why:**
+Default speed is slow and increases movement time.
+
+**How:**
+
+1. System Settings → Trackpad
+2. Increase **Tracking Speed** to ~70–80%
 
 ---
 
-## 🧑‍💻 2. Terminal Setup
+## ⌨️ Keyboard Configuration
 
-### Choose your shell
+### Increase Key Repeat Rate
+
+**Why:**
+Faster typing, navigation, and command execution.
+
+**How:**
+
+1. System Settings → Keyboard
+2. Set:
+
+   * **Key Repeat** → Fast
+   * **Delay Until Repeat** → Short
+
+---
+
+### Enable Full Keyboard Access (Optional)
+
+**Why:**
+Allows navigating UI elements using keyboard.
+
+**How:**
+
+1. System Settings → Accessibility → Keyboard
+2. Enable:
+   → Full Keyboard Access
+
+---
+
+## 📂 Finder Configuration
+
+### Show File Extensions
+
+**Why:**
+Prevents ambiguity between file types.
+
+**How:**
+
+1. Open Finder
+2. Settings (⌘ + ,)
+3. Advanced
+4. Enable:
+   → `Show all filename extensions`
+
+---
+
+### Show Path Bar
+
+**Why:**
+Provides full visibility of current directory.
+
+**How:**
+
+* Finder → View → Show Path Bar
+
+---
+
+### Show Status Bar
+
+**Why:**
+Displays file count and disk info.
+
+**How:**
+
+* Finder → View → Show Status Bar
+
+---
+
+### Set Default Finder Location
+
+**Why:**
+Avoids starting in Recents (low value).
+
+**How:**
+
+1. Finder Settings → General
+2. Set:
+   → “New Finder windows show” → Home or Projects folder
+
+---
+
+## 🔍 Spotlight Optimization
+
+### Customize Search Categories
+
+**Why:**
+Reduces noise and improves search relevance.
+
+**How:**
+
+1. System Settings → Spotlight
+2. Disable unnecessary categories (e.g., Fonts, Siri Suggestions)
+
+---
+
+### Usage Strategy
+
+Use Spotlight as your primary launcher:
+
+* Open apps
+* Search files
+* Execute quick calculations
+
+Shortcut:
 
 ```bash
-zsh (default)
+⌘ + Space
 ```
 
 ---
 
-### Recommended configuration
+# 🧑‍💻 2. Terminal Setup
 
-* Enable colors
-* Customize prompt
-* Add useful aliases
+## Shell
 
-Example:
+macOS uses:
+
+```bash
+zsh
+```
+
+---
+
+## Basic Configuration
+
+Edit your config file:
+
+```bash
+nano ~/.zshrc
+```
+
+---
+
+### Add Useful Aliases
 
 ```bash
 alias ll="ls -la"
 alias gs="git status"
 alias ..="cd .."
+alias ...="cd ../.."
+```
+
+**Why:**
+Reduces typing and speeds up navigation.
+
+---
+
+### Apply Changes
+
+```bash
+source ~/.zshrc
 ```
 
 ---
 
-## 🔧 3. Development Environment
+# 🔧 3. Package Manager (Homebrew)
 
-### Install Homebrew
+## Install Homebrew
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -75,7 +211,15 @@ alias ..="cd .."
 
 ---
 
-### Install essential tools
+## Verify Installation
+
+```bash
+brew --version
+```
+
+---
+
+## Install Core Tools
 
 ```bash
 brew install git
@@ -84,9 +228,18 @@ brew install python
 brew install wget
 ```
 
+**Why these:**
+
+* `git` → version control
+* `node` → tooling ecosystem
+* `python` → scripting / automation
+* `wget` → file retrieval
+
 ---
 
-### Git Configuration
+# 🔐 4. Git & SSH Setup
+
+## Configure Git Identity
 
 ```bash
 git config --global user.name "Your Name"
@@ -95,71 +248,112 @@ git config --global user.email "your@email.com"
 
 ---
 
-## 🧩 4. VS Code Setup
-
-* Install VS Code
-* Install extensions:
-
-  * GitLens
-  * Prettier
-  * Markdown Preview
-  * Python / C++ (depending on your needs)
-
----
-
-## 🔐 5. SSH Setup
-
-Generate SSH key:
+## Generate SSH Key
 
 ```bash
 ssh-keygen -t ed25519 -C "your@email.com"
 ```
 
-Add to ssh-agent:
+Press Enter to accept defaults.
+
+---
+
+## Start SSH Agent
 
 ```bash
 eval "$(ssh-agent -s)"
+```
+
+---
+
+## Add Key
+
+```bash
 ssh-add ~/.ssh/id_ed25519
 ```
 
 ---
 
-## ⚡ 6. Productivity Setup
-
-* Configure shortcuts (see `shortcuts/`)
-* Set up workflows (see `workflows/`)
-* Install automation scripts (see `scripts/`)
-
----
-
-## 📁 7. Folder Structure (Recommended)
-
-Example:
+## Add Key to GitHub
 
 ```bash
-~/dev/
-~/documents/
-~/downloads/
+cat ~/.ssh/id_ed25519.pub
 ```
 
-Keep development and personal files separated.
+Copy output → Add to GitHub → SSH Keys
 
 ---
 
-## 🔄 8. Continuous Improvement
+# 🧩 5. VS Code Setup
 
-This setup is not static.
+## Install
 
-Improve it over time:
-
-* Add scripts
-* Refine workflows
-* Optimize shortcuts
+Download from:
+https://code.visualstudio.com/
 
 ---
 
-## 🧠 Final Note
+## Recommended Extensions
 
-A well-configured system is not about tools.
+* GitLens
+* Prettier
+* Markdown Preview
+* Python / C++ (depending on usage)
 
-It is about reducing friction and enabling focus.
+---
+
+## Enable CLI Access
+
+```bash
+Cmd + Shift + P → "Shell Command: Install 'code' command in PATH"
+```
+
+---
+
+# ⚡ 6. Productivity Foundations
+
+## Folder Structure
+
+Create a clean workspace:
+
+```bash
+mkdir -p ~/dev
+mkdir -p ~/documents
+```
+
+---
+
+### Recommended Separation
+
+* `~/dev` → code and repositories
+* `~/documents` → personal and knowledge
+
+---
+
+## Terminal Navigation Tip
+
+Drag a folder into Terminal to auto-fill path:
+
+```bash
+cd [drag folder here]
+```
+
+---
+
+# 🔄 7. Next Steps
+
+After setup:
+
+* Learn shortcuts → `shortcuts/`
+* Implement workflows → `workflows/`
+* Use scripts → `scripts/`
+
+---
+
+# 🧠 Final Thought
+
+A fast system is not built by chance.
+
+It is **designed**.
+
+Every configuration decision should reduce friction, increase speed, and improve clarity.
