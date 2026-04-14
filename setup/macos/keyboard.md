@@ -244,7 +244,7 @@ It keeps the system simple at first, while still allowing growth into more advan
 ## 🔗 Related
 
 * See [Cross-Layout Mappings](../../keyboards/README.md) for layout overview
-* See [US Keyboard Layout](../../keyboards/US/keymap.md) for a layout-specific example
+* See [US Keymap](../../keyboards/US/keymap.md) for a layout-specific example
 * See [shortcuts](`../../shortcuts/) for system and application shortcuts
 * See [workflows](../../workflows/) for practical keyboard-based workflows
 
