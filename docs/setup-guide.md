@@ -344,9 +344,9 @@ cd [drag folder here]
 
 After setup:
 
-* Learn shortcuts → `shortcuts/`
-* Implement workflows → `workflows/`
-* Use scripts → `scripts/`
+* Learn shortcuts → [shortcuts](../shortcuts/) 
+* Implement workflows → [workflows](../workflows) 
+* Use scripts → [scripts](../scripts/) 
 
 ---
 
