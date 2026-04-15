@@ -67,11 +67,11 @@ This repository aims to:
 
 Depending on your needs:
 
-* Start with [setup](../setup/)  if you are configuring a new machine
-* Explore [shortcuts](../shortcuts/)  for immediate productivity gains
-* Use [workflows](../workflows/)  to optimize daily tasks
-* Leverage [scripts](../scripts/)  to automate repetitive work
-* Refer to [keyboards](../keyboards/)  if you use multiple layouts
+* Start with [setup](../setup/) if you are configuring a new machine
+* Explore [shortcuts](../shortcuts/) for immediate productivity gains
+* Use [workflows](../workflows/) to optimize daily tasks
+* Leverage [scripts](../scripts/) to automate repetitive work
+* Refer to [Keyboards](../keyboards/README.md) if you use multiple layouts
 
 ---
 
@@ -84,4 +84,4 @@ This repository is built with engineering principles in mind:
 * Reusability over duplication
 * Clarity over complexity
 
-For more details, see [Phylosophy](phylosophy.md).
+For more details, see [Philosophy](philosophy.md).

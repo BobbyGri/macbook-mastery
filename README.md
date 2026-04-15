@@ -39,7 +39,7 @@ Keyboard mappings and usage tips for multiple layouts:
 * US
 * DE (German)
 * FR (French)
-* MX (Spanish - Mexico)
+* LA (Spanish - Latin America)
 * RU (Russian)
 
 Each layout includes:
@@ -139,9 +139,9 @@ git clone https://github.com/YOUR-USERNAME/macbook-mastery.git
 
 2. Start with:
 
-* `keyboards/` → if you use multiple layouts
-* `shortcuts/` → for quick productivity gains
-* `workflows/` → to optimize your daily tasks
+* [Keyboards](keyboards/README.md) → if you use multiple layouts
+* [shortcuts](shortcuts/) → for quick productivity gains
+* [workflows](workflows/)  → to optimize your daily tasks
 
 ---
 
