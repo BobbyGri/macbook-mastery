@@ -6,11 +6,11 @@ This guide explains how to configure and customize keyboard behavior on macOS.
 
 It is intentionally **layout-independent** and applies to all keyboard layouts, including:
 
-* US
-* DE
-* FR
-* MX
-* RU
+* `DE` German
+* `FR` French
+* `LA` Spanish – Latin America
+* `RU` Russian
+* `US` English Internacional – PC
 
 It covers:
 
@@ -245,8 +245,8 @@ It keeps the system simple at first, while still allowing growth into more advan
 
 * See [Cross-Layout Mappings](../../keyboards/README.md) for layout overview
 * See [US Keymap](../../keyboards/US/keymap.md) for a layout-specific example
-* See [shortcuts](`../../shortcuts/) for system and application shortcuts
-* See [workflows](../../workflows/) for practical keyboard-based workflows
+* See [Shortcuts](`../../shortcuts/) for system and application shortcuts
+* See [Workflows](../../workflows/) for practical keyboard-based workflows
 
 ---
 

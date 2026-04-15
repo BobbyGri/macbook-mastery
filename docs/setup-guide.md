@@ -344,9 +344,9 @@ cd [drag folder here]
 
 After setup:
 
-* Learn shortcuts → [shortcuts](../shortcuts/) 
-* Implement workflows → [workflows](../workflows) 
-* Use scripts → [scripts](../scripts/) 
+* Learn shortcuts → [Shortcuts](../shortcuts/README.md) 
+* Implement workflows → [Workflows](../workflows/README.md) 
+* Use scripts → [Scripts](../scripts/README.md) 
 
 ---
 

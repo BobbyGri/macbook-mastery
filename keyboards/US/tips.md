@@ -113,6 +113,6 @@ Most development tools assume US layout.
 
 ## 🚀 Next Steps
 
-* Explore [shortcuts](../../shortcuts/) for system-wide shortcuts
-* Implement workflows in [workflows](../../workflows/)
-* Automate repetitive tasks with [scripts](../../scripts/)
+* Explore [Shortcuts](../../shortcuts/README.md) for system-wide shortcuts
+* Implement workflows in [Workflows](../../workflows/README.md)
+* Automate repetitive tasks with [scripts](../../scripts/README.md)

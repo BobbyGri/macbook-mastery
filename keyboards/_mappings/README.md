@@ -57,7 +57,7 @@ For advanced characters, refer to the destination layout documentation.
 
 ## 🗺️ How to Use
 
-1. Choose a mapping file (e.g., `US-to-RU.md`)
+1. Choose a mapping file (e.g., [US→RU](US-to-RU.md))
 2. Find the key you are familiar with
 3. Identify the corresponding output in the target layout
 4. Practice typing using the mapping
@@ -71,10 +71,10 @@ This section works together with:
 * `../US/keymap.md`, `../RU/keymap.md`, etc.
   → Full character reference for each layout
 
-* [Keyboard](../../setup/macos/keyboard.md)
+* [Keyboard Setup](../../setup/macos/keyboard.md)
   → Keyboard configuration and layout switching
 
-* [README](../README.md)
+* [Keyboards](../README.md)
   → General overview of keyboard layouts
 
 ---
@@ -83,10 +83,10 @@ This section works together with:
 
 Examples:
 
-* `US-to-RU.md`
-* `US-to-DE.md`
-* `US-to-FR.md`
-* `US-to-LA.md`
+* [US→RU](US-to-RU.md)
+* [US→DE](US-to-DE.md)
+* [US→FR](US-to-FR.md)
+* [US→LA](US-to-LA.md)
 
 ---
 

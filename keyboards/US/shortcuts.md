@@ -128,5 +128,5 @@ Shortcuts are grouped by context to make them easier to learn and apply.
 ## 🚀 Next
 
 * See [Tips](tips.md)  for practical usage strategies
-* Explore [workflows](../../workflows/)  to combine shortcuts into real processes
-* Use [scripts](../../scripts/)  to automate repetitive actions
+* Explore [Workflows](../../workflows/README.md)  to combine shortcuts into real processes
+* Use [Scripts](../../scripts/README.md)  to automate repetitive actions

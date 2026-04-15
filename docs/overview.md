@@ -67,10 +67,10 @@ This repository aims to:
 
 Depending on your needs:
 
-* Start with [setup](../setup/) if you are configuring a new machine
-* Explore [shortcuts](../shortcuts/) for immediate productivity gains
-* Use [workflows](../workflows/) to optimize daily tasks
-* Leverage [scripts](../scripts/) to automate repetitive work
+* Start with [Setup](../setup/README.md) if you are configuring a new machine
+* Explore [Shortcuts](../shortcuts/README.md) for immediate productivity gains
+* Use [Workflows](../workflows/README.md) to optimize daily tasks
+* Leverage [Scripts](../scripts/README.md) to automate repetitive work
 * Refer to [Keyboards](../keyboards/README.md) if you use multiple layouts
 
 ---

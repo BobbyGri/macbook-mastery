@@ -36,11 +36,11 @@ macbook-mastery/
 
 Keyboard mappings and usage tips for multiple layouts:
 
-* US
-* DE (German)
-* FR (French)
-* LA (Spanish - Latin America)
-* RU (Russian)
+* `DE` German
+* `FR` French
+* `LA` Spanish – Latin America
+* `RU` Russian
+* `US` English Internacional – PC
 
 Each layout includes:
 
@@ -140,8 +140,8 @@ git clone https://github.com/YOUR-USERNAME/macbook-mastery.git
 2. Start with:
 
 * [Keyboards](keyboards/README.md) → if you use multiple layouts
-* [shortcuts](shortcuts/) → for quick productivity gains
-* [workflows](workflows/)  → to optimize your daily tasks
+* [Shortcuts](shortcuts/) → for quick productivity gains
+* [Workflows](workflows/)  → to optimize your daily tasks
 
 ---
 

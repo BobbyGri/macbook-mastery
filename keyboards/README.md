@@ -46,7 +46,7 @@ For advanced keyboard customization, including:
 * Modifier key remapping
 * Custom keyboard behavior
 
-→ See: ../setup/macos/keyboard.md
+→ See: [Keyboard Setup](../setup/macos/keyboard.md)
 
 ---
 
@@ -75,11 +75,11 @@ If you work with multiple languages:
 
 ## 🔗 Layouts Available
 
-* `US/` → English (United States)
-* `DE/` → German
-* `FR/` → French
-* `LA/` → Spanish (Latin America)
-* `RU/` → Russian
+* `DE` German
+* `FR` French
+* `LA` Spanish – Latin America
+* `RU` Russian
+* `US` English Internacional – PC
 
 ---
 
