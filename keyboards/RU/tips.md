@@ -114,6 +114,16 @@ Write (RU) → Switch → Code (US) → Run → Switch back
 
 ---
 
+## 🔤 Use Character Reference When Needed
+
+If you cannot quickly type a symbol:
+
+→ Use [Character Reference](characters.md)
+
+This provides a complete set of copyable characters.
+
+---
+
 ## ⚠️ Common Mistakes
 
 * Looking at letters instead of key positions

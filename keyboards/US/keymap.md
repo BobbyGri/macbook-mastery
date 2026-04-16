@@ -129,6 +129,16 @@ These are documented separately.
 
 ---
 
+## 🔤 Character Reference
+
+If you cannot produce a specific character using the keyboard:
+
+→ See [Character Reference](characters.md)
+
+This provides a complete set of copyable characters.
+
+---
+
 ## 🔄 Cross-Layout Reference
 
 If you use the US layout as your visual or physical reference and want to type in another layout, see [Cross-Layout Mappings](../_mappings/README.md).
@@ -137,7 +147,8 @@ If you use the US layout as your visual or physical reference and want to type i
 ---
 
 ## 🔗 Related
-* See [mappings](../_mappings/) for 1:1 base-key mappings between different layouts
+
+* Explore [Mappings](../_mappings/) for 1:1 base-key mappings between different layouts
 * See [Shortcuts](shortcuts.md) for layout-specific shortcuts
 * See [Tips](tips.md)  for practical usage
 

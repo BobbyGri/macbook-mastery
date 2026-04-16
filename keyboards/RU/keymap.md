@@ -119,6 +119,24 @@ System shortcuts remain consistent, but depend on **physical key positions**, no
 
 ---
 
+## 🔤 Character Reference
+
+If you cannot produce a specific character using the keyboard:
+
+→ See [Character Reference](characters.md)
+
+This provides a complete set of copyable characters.
+
+
+---
+
+## 🔄 Cross-Layout Reference
+
+If you use the RU layout as your visual or physical reference and want to type in another layout, see [Cross-Layout Mappings](../_mappings/README.md).
+
+
+---
+
 ## 🔗 Related
 
 * Explore [Mappings](../_mappings/) for 1:1 base-key mappings between different layouts

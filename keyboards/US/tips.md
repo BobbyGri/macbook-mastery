@@ -103,6 +103,16 @@ Most development tools assume US layout.
 
 ---
 
+## 🔤 Use Character Reference When Needed
+
+If you cannot quickly type a symbol:
+
+→ Use [Character Reference](characters.md)
+
+This provides a complete set of copyable characters.
+
+---
+
 ## ⚠️ Common Mistakes
 
 * Overusing the mouse instead of shortcuts
