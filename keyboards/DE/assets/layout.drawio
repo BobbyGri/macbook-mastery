@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
   <diagram name="DE" id="cfS1n1tPe5X45TZWsuoj">
-    <mxGraphModel dx="4074" dy="2606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3253" dy="2517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -544,7 +544,7 @@
         <mxCell id="pGyEBQy56obi2fWxBEOl-210" parent="mjQEGbGDWUF70k64DufD-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=36;spacing=6;" value="&lt;font style=&quot;color: rgb(0, 204, 204);&quot;&gt;“&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="60" x="165" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="K3we38xjxSn6dWplhAor-1" parent="mjQEGbGDWUF70k64DufD-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=36;spacing=6;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Legend:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;-&amp;nbsp;&lt;font style=&quot;color: rgb(255, 204, 230);&quot;&gt;▲&amp;nbsp;&lt;/font&gt;Option (⌥)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;-&amp;nbsp;&lt;font style=&quot;background-color: transparent; color: rgb(0, 204, 204);&quot;&gt;▲&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Shift + Option (⌥ + ⇧)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="K3we38xjxSn6dWplhAor-1" parent="mjQEGbGDWUF70k64DufD-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=36;spacing=6;fillColor=#F9F9F9;" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Legend:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;-&amp;nbsp;&lt;font style=&quot;color: rgb(255, 204, 230);&quot;&gt;▲&amp;nbsp;&lt;/font&gt;Option (⌥)&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;-&amp;nbsp;&lt;font style=&quot;background-color: transparent; color: rgb(0, 204, 204);&quot;&gt;▲&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Shift + Option (⌥ + ⇧)&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="180" width="480" x="2475" y="1380" as="geometry" />
         </mxCell>
       </root>
