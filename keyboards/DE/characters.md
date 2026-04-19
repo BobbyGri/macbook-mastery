@@ -133,6 +133,15 @@ This provides a complete reference for character input.
 
 ---
 
+## 🌐 Global Character Reference
+
+If you cannot find a character in this layout:
+
+→ See [Global Character Reference](../characters.md)
+
+This provides a complete set of symbols across all categories.
+
+---
 ## 🔗 Related
 
 * See [Keymap](keymap.md) for character input

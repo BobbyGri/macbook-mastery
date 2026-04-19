@@ -144,7 +144,11 @@ If you cannot produce a specific character:
 
 → See [Character Reference](characters.md)
 
-This provides a complete set of copyable characters.
+For additional symbols:
+
+→ See [Global Character Reference](../characters.md)
+
+This provides a complete set of copyable symbols which are not tied to a specific layout.
 
 ---
 
