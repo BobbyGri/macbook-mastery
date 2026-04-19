@@ -2,7 +2,7 @@
 
 ## 🎯 Purpose
 
-This document provides a complete set of **copyable characters** for the US keyboard layout.
+This document provides a complete set of **copyable characters** for the US (QWERTY) keyboard layout.
 
 Use this when:
 
@@ -109,6 +109,8 @@ This document is designed for **quick copy-paste access**.
 If you want to learn how to type these characters:
 
 → See [Keymap](keymap.md)
+
+This provides a complete reference for character input.
 
 ---
 

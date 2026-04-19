@@ -2,7 +2,7 @@
 
 ## 🎯 Purpose
 
-This document provides a complete set of **copyable characters** for the Russian keyboard layout.
+This document provides a complete set of **copyable characters** for the Russian (Cyrillic) keyboard layout.
 
 Use this when:
 
@@ -122,6 +122,8 @@ This document is designed for **quick copy-paste access**.
 If you need to learn how to type these characters:
 
 → See [Keymap](keymap.md)
+
+This provides a complete reference for character input.
 
 ---
 

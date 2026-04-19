@@ -141,8 +141,11 @@ This provides a complete set of copyable characters.
 
 ## 🔄 Cross-Layout Reference
 
-If you use the US layout as your visual or physical reference and want to type in another layout, see [Cross-Layout Mappings](../_mappings/README.md).
+If you use the US layout as your visual or physical reference and want to type in another layout:
 
+→ See [Cross-Layout Mappings](../_mappings/README.md)
+
+This provides a 1:1 mapping between keys across different keyboard layouts.
 
 ---
 

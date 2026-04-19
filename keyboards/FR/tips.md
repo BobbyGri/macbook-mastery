@@ -13,7 +13,7 @@ Shortcuts are based on **physical key position**, not visible characters.
 Example:
 
 ```text id="p3c5mq"
-⌘ + A (Select All) → appears as ⌘ + Q on AZERTY
+⌘ + A (Select All) → appears as ⌘ + Q on FR
 ```
 
 **Why:**
@@ -23,7 +23,7 @@ The shortcut remains the same, even if the displayed letter changes.
 
 ## 🔤 Master Dead Keys (Critical)
 
-The AZERTY layout relies heavily on **dead keys** for accents.
+The FR layout relies heavily on **dead keys** for accents.
 
 Examples:
 
@@ -57,7 +57,7 @@ AZERTY is optimized for writing, not programming.
 
 Recommended workflow:
 
-* AZERTY → writing
+* FR → writing
 * US → coding / terminal / configuration
 
 **Why:**
@@ -111,11 +111,11 @@ Avoids manual navigation and works independently of layout.
 
 Do not assume:
 
-* QWERTY positions
+* QWERT positions
 * US symbol locations
 
 **Why:**
-AZERTY has a different structure → mental mapping must adapt.
+FR has a different structure → mental mapping must adapt.
 
 ---
 
@@ -137,7 +137,7 @@ If you cannot type a symbol quickly:
 
 * Looking at letters instead of key position
 * Forgetting dead key sequences
-* Trying to code in AZERTY without switching
+* Trying to code in FR without switching
 * Assuming US layout behavior
 
 ---

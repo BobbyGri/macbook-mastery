@@ -106,7 +106,7 @@ Shortcuts are triggered by:
 This means:
 
 * ⌘ + A still means Select All
-* even if you see **⌘ + Q on AZERTY**
+* even if you see **⌘ + Q on FR**
 
 ---
 
@@ -114,7 +114,7 @@ This means:
 
 * Trust muscle memory (key position)
 * Do not rely on visible letters
-* Expect visual differences in AZERTY
+* Expect visual differences in FR
 
 ---
 

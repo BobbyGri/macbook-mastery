@@ -125,6 +125,8 @@ If you want to learn how to type these characters:
 
 → See [Keymap](keymap.md)
 
+This provides a complete reference for character input.
+
 ---
 
 ## 🔗 Related

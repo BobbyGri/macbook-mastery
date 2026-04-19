@@ -75,11 +75,11 @@ If you work with multiple languages:
 
 ## 🔗 Layouts Available
 
-* `DE` German
-* `FR` French
+* `DE` **(QWERTZ)** German
+* `FR` **(AZERTY)** French
 * `LA` Spanish – Latin America
-* `RU` Russian
-* `US` English Internacional – PC
+* `RU` **(Cyrillic)** Russian
+* `US` **(QWERTY)** English Internacional – PC
 
 ---
 
