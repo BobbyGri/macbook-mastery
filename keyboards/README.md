@@ -75,11 +75,11 @@ If you work with multiple languages:
 
 ## 🔗 Layouts Available
 
-* `DE` **(QWERTZ)** German
-* `FR` **(AZERTY)** French
-* `LA` Spanish – Latin America
-* `RU` **(Cyrillic)** Russian
-* `US` **(QWERTY)** English Internacional – PC
+- **[DE](./DE/keymap.md)** (QWERTZ) — German  
+- **[FR](./FR/keymap.md)** (AZERTY) — French  
+- **[LA](./LA/keymap.md)** (Spanish) — Latin America  
+- **[RU](./RU/keymap.md)** (Cyrillic) — Russian  
+- **[US](./US/keymap.md)** (QWERTY) — English (International)
 
 ---
 

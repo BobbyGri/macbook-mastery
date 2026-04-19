@@ -2,7 +2,7 @@
 
 ## 🎯 Purpose
 
-Practical tips to improve efficiency when using the **Russian keyboard layout on macOS**.
+Practical tips to improve efficiency when using the **Russian (cyrillic) keyboard layout on macOS**.
 
 ---
 

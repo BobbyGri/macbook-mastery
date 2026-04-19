@@ -2,7 +2,7 @@
 
 🎯 Purpose
 
-This document provides a practical reference for the **Russian keyboard layout on macOS**, focusing on:
+This document provides a practical reference for the **Russian (cyrillic) keyboard layout on macOS**, focusing on:
 
 * How characters are produced
 * Cyrillic alphabet usage

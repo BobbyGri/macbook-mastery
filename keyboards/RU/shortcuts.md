@@ -2,7 +2,7 @@
 
 ## 🎯 Purpose
 
-This document provides essential keyboard shortcuts to improve **speed, efficiency, and workflow** on macOS using the **Russian keyboard layout**.
+This document provides essential keyboard shortcuts to improve **speed, efficiency, and workflow** on macOS using the **Russian (cyrillic) keyboard layout**.
 
 Shortcuts are based on **key position**, but here they are also shown using **visible RU keys** to avoid confusion.
 
